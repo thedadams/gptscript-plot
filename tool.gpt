@@ -6,5 +6,5 @@ Args: x-label: the label to display for the x-axis
 Args: y-label: the label to display for the y-axis
 Args: title: the title of the graph
 
-#!${GPTSCRIPT_TOOL_DIR}/venv/bin/python3 ${GPTSCRIPT_TOOL_DIR}/line_graph.py
+#!/usr/bin/env python3 ${GPTSCRIPT_TOOL_DIR}/line_graph.py
 
