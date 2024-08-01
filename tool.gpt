@@ -1,0 +1,10 @@
+Name: line-graph
+Description: Graph data in line graph
+Args: x-values: the values to plot on the x-axis
+Args: y-values: the values to plot on the y-axis
+Args: x-label: the label to display for the x-axis
+Args: y-label: the label to display for the y-axis
+Args: title: the title of the graph
+
+#!${GPTSCRIPT_TOOL_DIR}/venv/bin/python3 ${GPTSCRIPT_TOOL_DIR}/line_graph.py
+
